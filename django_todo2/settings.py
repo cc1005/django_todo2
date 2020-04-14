@@ -26,7 +26,8 @@ SECRET_KEY = 'kt%-0wt+@-3c*u^^@2fu)24&jk2%ccy8ancp&ug7fmi2lncm94'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-d42109a6-cd1b-4a14-ae04-acf393b238b7.ws-eu01.gitpod.io'
+    '8000-af7a674b-d7e5-4334-b0d0-b20dc5bbe7f0.ws-eu01.gitpod.io',
+    'localhost'
 ]
 
 
